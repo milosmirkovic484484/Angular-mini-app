@@ -1,0 +1,18 @@
+.default {
+    background-color: gray;
+}
+.drama {
+    background-color: orange;
+}
+.horor {
+    background-color: darkslategray;
+
+}
+
+.comedy {
+    background-color: #f80000;
+
+}
+.western {
+    background-color: powderblue;
+}
